@@ -1,0 +1,18 @@
+/* src/components/MovieSearchPage/index.css */
+.movie-search-page {
+  padding: 20px;
+}
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+.error {
+  color: red;
+}
+.loader{
+  height:60vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}

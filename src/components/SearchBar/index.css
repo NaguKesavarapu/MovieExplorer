@@ -1,0 +1,24 @@
+/* src/components/SearchBar/index.css */
+.search-bar {
+  display: flex;
+  flex-direction:column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.heading{
+  color:red;
+  font-family:"Roboto";
+  font-size:38px;
+}
+
+.input-element {
+  flex: 1;
+  padding: 10px;
+}
+.button {
+  padding: 10px;
+  margin-left:10px;
+  color:blue;
+  cursor:pointer;
+}

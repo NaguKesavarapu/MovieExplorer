@@ -1,0 +1,21 @@
+/* src/components/MovieDetailPage/index.css */
+.movie-detail {
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.movie-detail img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+.error {
+  color: red;
+}
+.loader{
+  height:60vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+

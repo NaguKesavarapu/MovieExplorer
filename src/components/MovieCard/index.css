@@ -1,0 +1,8 @@
+/* src/components/MovieCard/index.css */
+.movie-card {
+  text-align: center;
+}
+.movie-card img {
+  width: 100%;
+  height: auto;
+}
